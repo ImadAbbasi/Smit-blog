@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "author": "Quaid e Azam",
+    "imgURL": "https://parepjeddah.b-cdn.net/wp-content/uploads/2020/10/Quaid-e-Azam-Muhammad-Ali-Jinnah.png",
+    "title": "Creation of pakistan",
+    "datePublished": "August 14th, 1947",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolorem officiis repellat magnam at labore quae sapiente odit doloremque quasi nesciunt doloribus earum dicta quaerat id molestias reiciendis facilis quos, maxime natus? Quae sed ullam temporibus fugiat nisi, magni unde quasi consectetur est? Architecto dolores facere earum neque voluptatibus ad quos, ducimus quia assumenda dignissimos at corrupti. Vel, magnam laborum mollitia eum illum modi optio quis quos. Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum!"
+  },
+  {
+    "id": 2,
+    "author": "Elon Musk",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O3mdxQnFrakpKDxJIJdOYs5j7Gi3WfAJJg&usqp=CAU",
+    "title": "Tesla New Model",
+    "datePublished": "April 10th, 2023",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolorem officiis repellat magnam at labore quae sapiente odit doloremque quasi nesciunt doloribus earum dicta quaerat id molestias reiciendis facilis quos, maxime natus? Quae sed ullam temporibus fugiat nisi, magni unde quasi consectetur est? Architecto dolores facere earum neque voluptatibus ad quos, ducimus quia assumenda dignissimos at corrupti. Vel, magnam laborum mollitia eum illum modi optio quis quos. Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum! Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum! Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum!"
+  },
+  {
+    "id": 3,
+    "author": "Mark Zuckerberg",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Ox50xUj0pi537--P0XuiYT6bOWkIxs_qMA&usqp=CAU",
+    "title": "New Feature on Facebook",
+    "datePublished": "November 25th, 2022",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolorem officiis repellat magnam at labore quae sapiente odit doloremque quasi nesciunt doloribus earum dicta quaerat id molestias reiciendis facilis quos, maxime natus? Quae sed ullam temporibus fugiat nisi, magni unde quasi consectetur est? Architecto dolores facere earum neque voluptatibus ad quos, ducimus quia assumenda dignissimos at corrupti. Vel, magnam laborum mollitia eum illum modi optio quis quos. Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum!"
+  },
+  {
+    "id": 4,
+    "author": "Bill Gates",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmS4aj5WHEyfgWI4gieXbek-8w6jIT9i-RQ&usqp=CAU",
+    "title": "Microsoft Windows 12",
+    "datePublished": "March 25th, 2023",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolorem officiis repellat magnam at labore quae sapiente odit doloremque quasi nesciunt doloribus earum dicta quaerat id molestias reiciendis facilis quos, maxime natus? Quae sed ullam temporibus fugiat nisi, magni unde quasi consectetur est? Architecto dolores facere earum neque voluptatibus ad quos, ducimus quia assumenda dignissimos at corrupti. Vel, magnam laborum mollitia eum illum modi optio quis quos. Impedit optio debitis nisi delectus, maxime beatae perferendis quia harum culpa quas laborum!"
+  },
+  {
+    "id": 5,
+    "author": "imad@gmail.com",
+    "title": "My First Blog",
+    "content": "Saylani is best."
+  },
+  {
+    "id": 6,
+    "author": "imad@gmail.com",
+    "title": "My Second Blog",
+    "content": "Saylani is the best"
+  }
+]

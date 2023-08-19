@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "imad",
+    "lastName": "abbasi",
+    "email": "imad@gmail.com",
+    "password": "$2a$12$b0YfzEeBEthklFUD3bfhNOse6p1gQekH3OtB6NkbWHenBqHyvsk5a",
+    "repeatPassword": "$2a$12$D8l68/rpkIfEUMOxzepBMOPr.moBiYJGutZtz16eMzk.ztnHvBt7W"
+  }
+]
